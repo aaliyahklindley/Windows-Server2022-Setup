@@ -103,7 +103,7 @@ Ctrl + Alt + Delete
 ## Problem
 Virtual machine fails to boot after creation.
 <p align="center">
-  <img width="1920" height="1080" alt="Screenshot 2026-05-09 194918" src="https://github.com/user-attachments/assets/5461c317-6397-4ceb-8671-826032b49823" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-16 184031" src="https://github.com/user-attachments/assets/6f4c0d51-e690-4788-8ab5-d847d582e416" />
 </p>
 
 ## Solution
